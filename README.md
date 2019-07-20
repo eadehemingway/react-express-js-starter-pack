@@ -1,4 +1,4 @@
-# REXXXXXXXXXX
+# react-express-js-starter-pack
 
 ### to run the app for development
 
