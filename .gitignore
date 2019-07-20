@@ -6,5 +6,4 @@ public/dist
 
 
 # dotenv environment variables file
-.env
-
+config.env
